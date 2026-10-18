@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ejemplo1" group-title="General",Canal de ejemplo 1
+https://example.com/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="ejemplo2" group-title="General",Canal de ejemplo 2
+https://example.com/stream2/playlist.m3u8
+#EXTINF:-1 tvg-id="ejemplo3" group-title="Deportes",Canal de ejemplo 3
+https://example.com/stream3/playlist.m3u8
